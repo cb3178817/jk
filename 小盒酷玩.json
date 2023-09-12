@@ -14,7 +14,11 @@
 {"key": "jable","name": "jable","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/jable.json"},
 	
 {"key": "csp_淘剧影视","name": "淘剧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
-	
+
+{"key": "厂长","name": "厂长","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/厂长.json"},
+
+{"key": "专享","name": "专享","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专享.json"},
+
 {"key": "荐片","name": "荐片","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/荐片.js"}
 
 
