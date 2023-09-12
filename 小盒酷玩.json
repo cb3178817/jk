@@ -1,21 +1,21 @@
 //全部数据来自网络和各大佬资源整合
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
-//QQ频道：小盒酷玩    
-//公众号：小盒酷玩
-//QQ交流群：817925554
+//QQ交流群：79575044
 
 {
 
-"warningText":"小盒酷玩提醒：江湖路漫漫-有缘再会！",    
+"warningText":"普迹折腾王",    
 
 
 "sites":[
 
-{"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "豆瓣搜索","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 	
 {"key": "jable","name": "jable","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/jable.json"},
 	
-{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "csp_淘剧影视","name": "淘剧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
+	
+{"key": "荐片","name": "荐片","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/荐片.js"}
 
 
 ],
