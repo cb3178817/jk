@@ -12,7 +12,9 @@
 "sites":[
 
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
-
+	
+{"key": "jable","name": "jable","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/jable.json"},
+	
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
