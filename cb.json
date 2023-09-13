@@ -26,33 +26,48 @@
       "ext": "https://cz01.me/"
     },
 	
-    {
-      "key": "探探",
-      "name": "🏵影探┃App",
+       {
+      "key": "drpy_js_斗鱼直播",
+      "name": "直播 | 斗鱼[js]",
       "type": 3,
-      "playerType": "1",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "vip.lyyytv.cn"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
     },
-	 {
-      "key": "kuaikan",
-      "name": "👀快看┃App",
+    {
+      "key": "drpy_js_虎牙直播",
+      "name": "直播 | 虎牙[js]",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
     },
 	
 	    {
       "key": "drpy_js_奇珍异兽",
-      "name": "🐨┃爱奇艺┃官源",
+      "name": "┃爱奇艺┃官源",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://alist.xn--z7x900a.love:63/爱奇.js"
+    },
+	   {
+      "key": "drpy_js_优酷",
+      "name": "优酷┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾讯┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "芒果┃官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
 
 	      {
@@ -138,6 +153,17 @@
       "name": "左岸解析",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },
+	{
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+
+	 {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
     },
 	    
     {
