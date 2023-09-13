@@ -47,15 +47,31 @@
  ]
  },
 
-		   {
+	{
             "key": "森林",
-            "name": "森林采集",
+            "name": "森林GG",
             "type": 1,
             "api": "https://slapibf.com/api.php/provide/vod/",
+            "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
+            "filterable": 1,
+            "categories": [
+            "精品推荐",
+                "国产情色",
+                "主播直播",
+                "亚洲无码",
+                "亚洲有码",
+                "中文字幕",
+                "巨乳美乳",
+                "人妻熟女",
+                "强奸乱伦",
+                "自拍偷拍"，
+	        "91探花"
+                
+ ]
+ },
+
 
 	   {
             "key": "csp_SP360",
