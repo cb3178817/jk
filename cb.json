@@ -11,6 +11,16 @@
 
 {"key": "豆瓣","name": "豆瓣搜索","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
+	        {
+            "key": "js 77",
+            "name": "酷云77",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/酷云77.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
   {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
