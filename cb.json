@@ -32,6 +32,8 @@
       "playerType": 2,
       "ext": "https://cz01.me/"
     },
+	
+{"key": "农民","name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nmys.json"},
 
 {"key": "csp_淘剧影视","name": "淘剧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
 
