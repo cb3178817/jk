@@ -23,7 +23,13 @@
       "ext": "https://cz01.me/"
     },
 
-{
+{"key": "csp_淘剧影视","name": "淘剧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
+
+{"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
+	
+{"key": "专享","name": "专享","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专享.json"},
+
+	{
             "key": "老鸭",
             "name": "👠老鸭采集",
             "type": 1,
@@ -61,20 +67,11 @@
 
 
 {"key": "zp116","name": "👠泡芙资源","type": 0,"api": "http://zmcj88.com/api?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},
-{"key":"*森林","name":"*🔞森林资源","type":1,"api":"https://beiyong.slapibf.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*森林","name":"森林资源","type":1,"api":"https://beiyong.slapibf.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 {"key": "tasexy","name": "tasexy","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/tasexy.json"},
 
 {"key": "性欲轮回","name": "性欲轮回","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/性欲轮回.json"},
-	
-{"key": "csp_淘剧影视","name": "淘剧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
-
-{"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
-
-{"key": "csexY","name": "sex","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://www.tasexy.com/list.html"},
-	
-{"key": "专享","name": "专享","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专享.json"},
-
 {"key": "荐片","name": "荐片","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/荐片.js"}
 
 
