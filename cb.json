@@ -32,8 +32,16 @@
       "playerType": 2,
       "ext": "https://cz01.me/"
     },
-	
-{"key": "农民","name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nmys.json"},
+	      {
+      "key": "csp_Nmys",
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/cb3178817/jk/main/json/nmys.json"
+    },
 {"key": "csp_淘剧影视","name": "淘剧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
 {"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
 {"key": "专享","name": "专享","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专享.json"},
