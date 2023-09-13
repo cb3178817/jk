@@ -31,7 +31,7 @@
       "name": "🏵影探┃App",
       "type": 3,
       "playerType": "1",
-      "api": "csp_YTVIP",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -41,7 +41,7 @@
       "key": "kuaikan",
       "name": "👀快看┃App",
       "type": 3,
-      "api": "csp_Kuaikan",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -145,7 +145,11 @@
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
-	
+	 {
+      "name": "网络",
+      "type": 1,
+      "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
+    },
     {
       "name": "来自",
       "type": 0,
