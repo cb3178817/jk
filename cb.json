@@ -28,14 +28,14 @@
 	
        {
       "key": "drpy_js_斗鱼直播",
-      "name": "直播 | 斗鱼[js]",
+      "name": "直播|斗鱼",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
     },
     {
       "key": "drpy_js_虎牙直播",
-      "name": "直播 | 虎牙[js]",
+      "name": "直播|虎牙",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
