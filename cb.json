@@ -48,10 +48,10 @@
  },
 
 		   {
-            "key": "csp_SP360",
-            "name": "森林",
+            "key": "森林",
+            "name": "森林采集",
             "type": 1,
-            "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+            "api": "https://slapibf.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
