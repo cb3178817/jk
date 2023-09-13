@@ -47,31 +47,6 @@
  ]
  },
 
-		{
-            "key": "森林",
-            "name": "森林GG",
-            "type": 1,
-            "api": "https://slapibf.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-            "精品推荐",
-                "国产情色",
-                "主播直播",
-                "亚洲无码",
-                "亚洲有码",
-                "中文字幕",
-                "巨乳美乳",
-                "人妻熟女",
-                "强奸乱伦",
-                "自拍偷拍",        
-	        "九一探花"
-                
- ]
- },
-
 	   {
             "key": "csp_SP360",
             "name": "91MD",
@@ -83,6 +58,11 @@
         },
 	
 {"key": "jable","name": "jable","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/jable.json"},
+
+
+{"key": "zp116","name": "👠泡芙资源","type": 0,"api": "http://zmcj88.com/api?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},
+
+{"key": "zp126","name": "👠森林","type": 0,"api": "https://slapibf.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},
 
 {"key": "tasexy","name": "tasexy","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/tasexy.json"},
 
