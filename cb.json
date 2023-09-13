@@ -47,30 +47,15 @@
  ]
  },
 
-	{
-            "key": "森林",
-            "name": "👠森林采集",
+		   {
+            "key": "csp_SP360",
+            "name": "森林",
             "type": 1,
-            "api": "htthttps://slapibf.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
+            "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-            "日本有码",
-                "日本无码",
-                "中文字幕",
-                "变态另类",
-                "巨乳美乳",
-                "动漫精品",
-                "熟女人妻",
-                "自拍偷拍",
-                "海外明星",
-                "国产传媒"
-                
- ]
- },
-
+            "filterable": 1
+        },
 
 	   {
             "key": "csp_SP360",
