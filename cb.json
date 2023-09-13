@@ -67,7 +67,7 @@
 
 
 {"key": "zp116","name": "👠泡芙资源","type": 0,"api": "http://zmcj88.com/api?ac=list","searchable": 1,"quickSearch": 1, "filterable": 0},
-{"key": "senlin","name": "森林资源","type": 3,"api": "https://beiyong.slapibf.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1, "filterable": 0},
+{"key": "senlin","name": "森林源","type": 1,"api": "https://beiyong.slapibf.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1, "filterable": 0},
 {"key": "性欲轮回","name": "性欲轮回","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/性欲轮回.json"},
 {"key": "荐片","name": "荐片","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/荐片.js"}
 
