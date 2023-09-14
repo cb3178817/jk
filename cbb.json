@@ -30,20 +30,20 @@
       "key": "drpy_js_斗鱼直播",
       "name": "直播|斗鱼",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/斗鱼直播.js"
     },
     {
       "key": "drpy_js_虎牙直播",
       "name": "直播|虎牙",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/虎牙直播.js"
     },
 	
 	    {
       "key": "drpy_js_奇珍异兽",
-      "name": "┃爱奇艺┃官源",
+      "name": "爱奇艺┃官源",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://alist.xn--z7x900a.love:63/爱奇.js"
