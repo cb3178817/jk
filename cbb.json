@@ -202,7 +202,7 @@
 {"key":"*博天堂","name":"🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "橘猫资源","name": "🔞橘猫资源","type": 1,"api": "https://to.to-long.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 
-	
+    {"key":"csp_xBPQ_banban","name":"🏆banban","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/banban.json","jar":"./jar/Yoursmile2.jar"},	
 
 	
 	
