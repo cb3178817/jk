@@ -190,9 +190,10 @@
 {"key":"zp066","name":"🔞花椒资源","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
  {"key":"*色猫资源","name":"🔞色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 { "key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"玉兔","name":"🔞玉兔","type":0,"api":"https://yutuzy3.com/api.php/provide/vod/?ac=list","playUrl":"https://yutujx.com/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"zp104","name":"🔞辣椒","type":0,"api":"https://apilj.com/api.php/Seacms/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"探探","name":"🔞探探","type":0,"api":"https://apittzy.com/api.php/provide/vod/at/xml/","playUrl":"https://jiexi.ttbfp1.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key": "玉兔资源","name": "👠玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
+
+{"key":"探探","name":"🔞探探","type":0,"api":"https://apittzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"zp102","name":"🔞富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"zp100","name":"🔞乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
