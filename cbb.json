@@ -192,16 +192,10 @@
 { "key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"zp104","name":"🔞辣椒","type":0,"api":"https://apilj.com/api.php/Seacms/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "玉兔资源","name": "🔞玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
-{"key": "香蕉","name": "🔞新香蕉","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/新香蕉.json"},
 {"key": "香蕉解说","name": "🔞香蕉解说","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/香蕉解说.json"},
 {"key": "香蕉废柴","name": "🔞香蕉废柴","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/香蕉废柴.json"},
 {"key": "香蕉直播","name": "🔞香蕉直播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/香蕉直播.json"},
-{"key": "黄花","name": "🔞黄瓜TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/黄瓜TV.json"},
-	
-{"key": "deee","name": "🔞聚优中文","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/聚优中文资源.json"},
-{"key": "直播","name": "🔞聚优直播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/聚优直播.json"},
-
-{"key":"探探","name":"🔞探探","type":1,"api":"https://apittzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"探探","name":"🔞探探","type":0,"api":"https://apittzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"zp100","name":"🔞乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"大地采集","name":"🔞大地源","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":0},
