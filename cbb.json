@@ -40,6 +40,16 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/影探.js"
     },
+	    {
+      "key": "迪迪",
+      "name": "迪迪┃影视",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
 	
        {
       "key": "drpy_js_斗鱼直播",
