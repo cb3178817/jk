@@ -33,6 +33,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/ikanbot2.js"
     },
+		  {
+      "key": "drpy_js_影探",
+      "name": "影探|影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/影探.js"
+    },
 	
        {
       "key": "drpy_js_斗鱼直播",
@@ -105,7 +112,7 @@
     },
 	   {
       "key": "drpy_js_NT动漫",
-      "name": "动漫|动漫",
+      "name": "动漫|NT",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/NT动漫.js"
