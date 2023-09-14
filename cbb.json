@@ -89,6 +89,28 @@
       "ext": "https://raw.githubusercontent.com/cb3178817/jk/main/json/nmys.json"
     },
 	
+	 {
+      "key": "drpy_js_爱弹幕",
+      "name": "动漫|爱弹幕",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/爱弹幕.js"
+    },
+    {
+      "key": "drpy_js_兔小贝",
+      "name": "早教|兔小贝",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/兔小贝.js"
+    },
+	   {
+      "key": "drpy_js_NT动漫",
+      "name": "动漫|动漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/NT动漫.js"
+    },
+	
 {"key": "csp_淘剧影视","name": "淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
 {"key": "专享","name": "专享┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专享.json"},
