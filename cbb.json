@@ -26,50 +26,7 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
     },
-	    {
-      "key": "727",
-      "name": "七七┃影视",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     {
-      "key": "探探",
-      "name": "影探┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "vip.lyyytv.cn"
-    },
-	    {
-      "key": "kuaikan",
-      "name": "快看┃影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-	    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"
-    },
-	    {
       "key": "迪迪",
       "name": "迪迪┃影视",
       "api": "csp_AppYsV2",
@@ -232,14 +189,42 @@
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 {"name": "web聚合","type": 3,"url": "Web"},
-	 {
-      "name": "全民解析",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
     {
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
+    },
+		 {
+      "name": "全民解析",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+	    {
+      "name": "飞速解析",
+      "type": 1,
+      "url": "https://jx.zhanlangbu.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
     },
  {
       "name": "左岸解析",
@@ -290,16 +275,7 @@
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
-	 {
-      "name": "88",
-      "type": 1,
-      "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
-    },
-    {
-      "name": "99",
-      "type": 0,
-      "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
-    },
+
  {
       "name": "8090",
       "url": "https://www.8090g.cn/?url="
