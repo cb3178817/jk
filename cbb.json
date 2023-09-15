@@ -19,26 +19,55 @@
       "ext": "https://cz01.me/"
     },
 	
-	  {
-      "key": "drpy_js_爱看机器人",
-      "name": "爱看|影视",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "ext": "./js/ikanbot2.js"
-    },
 	    {
       "key": "drpy_js_机器人",
-      "name": "爱看 | 机器[js]",
+      "name": "爱看|影视",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
     },
-		  {
-      "key": "drpy_js_影探",
-      "name": "影探|影视",
+	    {
+      "key": "727",
+      "name": "七七┃影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/影探.js"
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "探探",
+      "name": "影探┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
+	    {
+      "key": "kuaikan",
+      "name": "快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"
     },
 	    {
       "key": "迪迪",
