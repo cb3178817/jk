@@ -122,39 +122,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/兔小贝.js"
     },
-	  {
-      "key": "csp_XYQHiker_兔小贝2",
-      "name": "早教|教育",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/兔小贝2.json"
-    },
-	
-    {
-      "key": "儿童",
-      "name": "少儿┃教育",
-      "type": 0,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0"
-    },
-	 {
-      "key": "csp_Bili幼儿",
-      "name": "幼儿┃教育",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/幼儿乐园.json"
-    },
-
-{"key": "tq","name": "早教┃童趣","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/播视童趣.json"},
 
 {"key": "csp_淘剧影视","name": "淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
@@ -232,9 +199,8 @@
 {"name": "解析聚合","type": 3,"url": "Demo"},
 {"name": "web聚合","type": 3,"url": "Web"},
 	 {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
+      "name": "全民解析",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "name": "Json轮询",
