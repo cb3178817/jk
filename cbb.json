@@ -187,10 +187,10 @@
 
 "parses": [ 
 
-{"name": "解析聚合","type": 3,"url": "Demo"},
-{"name": "web聚合","type": 3,"url": "Web"},
+{"name": "聚合0","type": 3,"url": "Demo"},
+{"name": "聚合1","type": 3,"url": "Web"},
     {
-      "name": "Json轮询",
+      "name": "轮询",
       "type": 2,
       "url": "Sequence"
     },
