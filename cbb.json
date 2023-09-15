@@ -28,7 +28,7 @@
 	
     {
       "key": "影視",
-      "name": "秒看|影視",
+      "name": "秒进|影視",
       "type": 3,
       "api": "csp_YingShi",
       "searchable": 1,
