@@ -23,7 +23,7 @@
       "key": "drpy_js_爱看机器人",
       "name": "爱看|影视",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "ext": "./js/ikanbot2.js"
     },
 	    {
@@ -132,8 +132,6 @@
 
 {"key": "csp_淘剧影视","name": "淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
-{"key": "专享","name": "专享┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专享.json"},
-
 	{
             "key": "老鸭",
             "name": "🔞老鸭采集",
