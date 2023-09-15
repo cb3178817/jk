@@ -154,16 +154,8 @@
       "ext": "./json/幼儿乐园.json"
     },
 
-	   {
-      "key": "csp_XYQHiker_播视童趣",
-      "name": "早教┃童趣",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/播视童趣.json"
-    },
+{"key": "tq","name": "早教┃趣","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/播视童趣.json"},
+
 {"key": "csp_淘剧影视","name": "淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
 {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
 {"key": "专享","name": "专享┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/专享.json"},
