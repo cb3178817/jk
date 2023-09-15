@@ -19,14 +19,6 @@
       "ext": "https://cz01.me/"
     },
 	
-    {
-      "key": "影視",
-      "name": "秒进|影視",
-      "type": 1,
-      "api": "csp_YingShi",
-      "searchable": 1,
-      "changeable": 1
-    },
 	  {
       "key": "drpy_js_爱看机器人",
       "name": "爱看|影视",
