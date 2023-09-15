@@ -1,11 +1,11 @@
-//全部数据来自网络和各大佬资源整合
-//软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
-//QQ交流群：79575044
+
 
 {
-
 "warningText":"普迹折腾王",    
 
+{
+  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;211cb09b88752dd0d56201b84b0b3e47",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
 
