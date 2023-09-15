@@ -1,10 +1,6 @@
-
-
 {
-"warningText":"普迹折腾王",    
   "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;211cb09b88752dd0d56201b84b0b3e47",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-
 "sites":[
 
 {"key": "豆瓣","name": "豆瓣┃搜索","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
