@@ -18,7 +18,29 @@
       "playerType": 2,
       "ext": "https://cz01.me/"
     },
-	
+	    {
+      "key": "快看影视",
+      "name": "快看1┃影视",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "ext": "https://drpy.cainisi.cf/js/快看.js"
+    },
+	    {
+      "key": "饭团影视",
+      "name": "饭团┃影视",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://drpy.cainisi.cf/js/饭团影视.js"
+    },
 	    {
       "key": "drpy_js_机器人",
       "name": "爱看|影视",
