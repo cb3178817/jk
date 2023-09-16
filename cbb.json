@@ -194,43 +194,19 @@
       "type": 2,
       "url": "Sequence"
     },
-		 {
-      "name": "全民解析",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
+
 			 {
       "name": "综合/B站",
       "type": "1,3",
       "url": "https://jx.jsonplayer.com/player/?url="
     },
-	    {
-      "name": "飞速解析",
-      "type": 1,
-      "url": "https://jx.zhanlangbu.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
+				 {
+      "name": "YT",
+      "type": "1",
+      "url": "https://jx.yangtu.top/?url="
     },
+	
+  {"name":"BL",type:"1",url:"https://vip.bljiex.com/?v="},
  {
       "name": "左岸解析",
       "type": 1,
@@ -276,15 +252,11 @@
     },
 	    
     {
-      "name": "66",
+      "name": "666",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
 
- {
-      "name": "8090",
-      "url": "https://www.8090g.cn/?url="
-    },
 	{
       "name": "夜幕",
       "type": 0,
