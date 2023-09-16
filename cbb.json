@@ -20,7 +20,7 @@
     },
 	    {
       "key": "快看影视",
-      "name": "快看1┃影视",
+      "name": "快看┃影视",
       "type": 3,
       "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
@@ -29,17 +29,6 @@
       "changeable": 1,
       "playerType": 1,
       "ext": "https://drpy.cainisi.cf/js/快看.js"
-    },
-	    {
-      "key": "饭团影视",
-      "name": "饭团┃影视",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/饭团影视.js"
     },
 	    {
       "key": "drpy_js_机器人",
@@ -163,36 +152,6 @@
                 
  ]
  },
-	{
-            "key": "tt",
-            "name": "🔞探采集",
-            "type": 1,
-            "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
-            "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "精品推荐",
-                "国产视频",
-                "主播直播",
-                "日本无码",
-                "日本有码",
-                "中文字幕",
-                "巨乳美乳",
-                "熟女人妻",
-                "强奸乱伦",
-		"欧美精品",
-                "少女萝莉",
-                "三级乱伦",
-                "成人动漫",
-                "制服丝袜",
-                "角色扮演",
-                "口交颜射",
-                "自拍偷拍"
-                
- ]
- },
 
 	   {
             "key": "csp_SP360",
@@ -229,8 +188,6 @@
 {"key":"大地采集","name":"🔞大地源","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"*博天堂","name":"🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "橘猫资源","name": "🔞橘猫资源","type": 1,"api": "https://to.to-long.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key":"探探","name":"探探","type":0,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.ttbfp1.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
-
     {"key":"csp_xBPQ_banban","name":"🔞banban","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/banban.json","jar":"./jar/Yoursmile2.jar"},	
 
 	
