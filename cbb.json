@@ -198,6 +198,11 @@
       "name": "全民解析",
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
+			 {
+      "name": "综合/B站",
+      "type": "1,3",
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
 	    {
       "name": "飞速解析",
       "type": 1,
