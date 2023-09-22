@@ -213,15 +213,6 @@
       "url": "Sequence"
     },
 
-			 {
-      "name": "综合/B站",
-      "type": "1,3",
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-            {"name": "YT解析", "type": "1,3", "url": "https://jx.yangtu.top/?url="},
-
-
-
  {
       "name": "BL解析",
       "type": 1,
