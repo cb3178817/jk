@@ -212,6 +212,12 @@
       "type": 2,
       "url": "Sequence"
     },
+	{"name":"🎏","type": 1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name":"🛩️","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"-1-","type":0,"url":"https://jx.m3u8.pw/?url="},
+{"name":"-2-","type":0,"url":"https://jx.quankan.app/?url="},
+{"name":"-3-","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"神秘","type":1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},
 
  {
       "name": "BL解析",
@@ -384,6 +390,7 @@
         "m3u8"
       ]
     },
+	{"host":"www.ysgc.vip","rule":["getm3u8?url=http"]},
     {
       "host": "v.3412.net.cn",
       "rule": [
