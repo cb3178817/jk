@@ -1,98 +1,8 @@
 {
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 "sites":[
-
-{"key": "豆瓣","name": "豆瓣┃搜索","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 {"key": "荐片","name": "荐┃片","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/荐片.js"},
-{"key": "360","name": "360┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
-{"key": "kuyun","name": "酷云┃77","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷云77.js"},
-
-  {
-      "key": "厂长",
-      "name": "厂长┃影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://cz01.me/"
-    },
-	    {
-      "key": "快看影视",
-      "name": "快看┃影视",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "playerType": 1,
-      "ext": "https://drpy.cainisi.cf/js/快看.js"
-    },
-	    {
-      "key": "drpy_js_机器人",
-      "name": "爱看|影视",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
-    },
-    {
-      "key": "迪迪",
-      "name": "迪迪┃影视",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-	
-       {
-      "key": "drpy_js_斗鱼直播",
-      "name": "直播|斗鱼",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/斗鱼直播.js"
-    },
-    {
-      "key": "drpy_js_虎牙直播",
-      "name": "直播|虎牙",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/虎牙直播.js"
-    },
-	
-	    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "爱奇艺┃官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://alist.xn--z7x900a.love:63/爱奇.js"
-    },
-	   {
-      "key": "drpy_js_优酷",
-      "name": "优酷┃官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "腾讯┃官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "芒果┃官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/百忙无果.js"
-    },
-
-	      {
+        {
       "key": "csp_Nmys",
       "name": "农民┃影视",
       "type": 3,
@@ -102,33 +12,7 @@
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/cb3178817/jk/main/json/nmys.json"
     },
-	
-	 {
-      "key": "drpy_js_爱弹幕",
-      "name": "动漫|爱弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱弹幕.js"
-    },
-	
-		   {
-      "key": "drpy_js_NT动漫",
-      "name": "动漫|NT",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/NT动漫.js"
-    },
-	
-    {
-      "key": "drpy_js_兔小贝",
-      "name": "早教|兔小贝",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/兔小贝.js"
-    },
-
-{"key": "csp_淘剧影视","name": "淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
-{"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
+	 {"key":"皇冠","name":"🔞皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
 	{
             "key": "老鸭",
             "name": "🔞老鸭采集",
@@ -157,7 +41,7 @@
             "key": "csp_SP360",
             "name": "🔞91MD",
             "type": 1,
-            "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+            "api": "https://www.9191md.me/api.php/provide/vod/from/mdm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
