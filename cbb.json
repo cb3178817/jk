@@ -28,8 +28,6 @@
     {"key":"色猫","name":"🔞色猫","type":0,"api":"https://api.maozyapi.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"大地","name":"🔞大地","type":0,"api":"https://dadiapi.com/api.php/provide/vod/at/xml","quickSearch":1,"searchable":1,"filterable":1},
     {"key":"zp157","name":"🔞熊猫资源","type":0,"api":"http://jcspcj8.com/api?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"zp029","name":"🔞JAV名优","type":0,"api":"https://my9528.com/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
-
 	 {"key":"皇冠","name":"🔞皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
 	{
             "key": "老鸭",
