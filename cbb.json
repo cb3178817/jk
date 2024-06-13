@@ -30,6 +30,7 @@
     {"key":"zp157","name":"🔞熊猫资源","type":0,"api":"http://jcspcj8.com/api?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"皇冠","name":"🔞皇冠","type":1,"api":"https://hgzy05.com/api.php/provide/vod","searchable":0,"quickSearch":0,"filterable":0},
 		 {"key":"色色虎","name":"🔞色色虎","type":1,"api":"https://apisesehuzy.com/api.php/providedao/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
+ {"key":"草榴","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/prodao/vod/at/json/","searchable":0,"quickSearch":0,"filterable":0},
 
 	{
             "key": "老鸭",
